@@ -9,3 +9,4 @@ $conn = new mysqli($host,$user,$password,$dbname);
 if(!$conn){
     echo "Connexion impossible";
 }
+?>
